@@ -42,6 +42,6 @@ Users can also search for any other city to get instant weather information.
 ## ⚙️ Installation
 1. Clone this repository:  
    ```bash
-   git clone APK Download: https://github.com/Aryan112244/app-development-day1/releases/download/v1.0.0/app-release.apk
+   git clone APK Download: https://github.com/Aryan112244/app-development-day1/releases/tag/v1.0.0
 
   
